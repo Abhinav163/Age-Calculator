@@ -3,7 +3,7 @@ Simple Age Calculator Website
 
 This repository contains a simple age calculator website built using HTML, CSS, and JavaScript. The website allows users to calculate their age based on their birthdate.
 
-Features
+Features:-
 
 -User-friendly interface.
 -Input field for entering the birthdate.
@@ -11,14 +11,14 @@ Features
 -Display area to show the calculated age.
 
 
-Technologies Used
+Technologies Used:-
 
 -HTML: Used for structuring the website.
 -CSS: Used for styling the website.
 -JavaScript: Used for handling the age calculation logic.
 
 
-How to Use
+How to Use:-
 
 1.Clone the repository or download the source code files.
 2.Open the index.html file in your preferred web browser.
